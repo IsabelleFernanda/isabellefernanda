@@ -3,12 +3,6 @@
 
 Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
 
-
- 🔭 I’m currently working on 
-- 🌱 I’m currently learning python, SQL
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: ...
-
 <div>
   <a href="https://github.com/IsabelleFernanda">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
