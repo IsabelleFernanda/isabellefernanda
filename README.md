@@ -1,8 +1,5 @@
-## Olá eu sou a Isabelle Fernanda. Transformo dados em insights! ✨ Estudante de Ciência de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
 
-
-<!--
-**IsabelleFernanda/isabellefernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá eu sou a Isabelle Fernanda. Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
 
 
  🔭 I’m currently working on 
