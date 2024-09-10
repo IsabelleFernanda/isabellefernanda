@@ -5,7 +5,7 @@ Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão po
 
 
  🔭 I’m currently working on 
-- 🌱 I’m currently learning python, SQL, 
+- 🌱 I’m currently learning python, SQL
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: ...
 
