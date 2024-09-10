@@ -10,6 +10,8 @@ Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão po
 - ⚡ Fun fact: ...
 
 
+https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
