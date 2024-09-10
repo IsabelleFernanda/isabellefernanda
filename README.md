@@ -11,6 +11,13 @@ Estou em busca de aprender sobre Análise de Dados e Machile Learning
 Atualmente trabalho com Python e SQL
 
 
+## Soft Skills
+
+💡 Pensamento Criativo
+🔁 Adaptabilidade
+🔎 Pensamento Analítico
+🔧 Resolução de problemas
+
 <div>
   <a href="https://github.com/IsabelleFernanda">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,13 +26,6 @@ Atualmente trabalho com Python e SQL
   </a>
 </div>
 
-## Soft Skills
-
-💡 Pensamento Criativo
-🔁 Adaptabilidade
-🔎 Pensamento Analítico
-🔧 Resolução de problemas
- 
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -37,6 +37,8 @@ Atualmente trabalho com Python e SQL
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   
 </div>
+
+
 
 ## Onde me encontar
 
