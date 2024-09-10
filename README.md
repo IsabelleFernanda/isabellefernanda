@@ -1,5 +1,7 @@
 
-## Olá eu sou a Isabelle Fernanda. Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
+## Olá eu sou a Isabelle Fernanda
+
+Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
 
 
  🔭 I’m currently working on 
