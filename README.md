@@ -10,9 +10,11 @@ Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão po
 - ⚡ Fun fact: ...
 
 <div>
- <a href="https://github.com/IsabelleFernanda">
- <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleFernanda&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/IsabelleFernanda">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleFernanda&layout=compact&langs_count=16&theme=dracula"/>   
+
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
