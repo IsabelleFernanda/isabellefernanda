@@ -2,14 +2,12 @@
 ## 👋 What's up? 
 
 Olá eu sou a Isabelle Fernanda!
-Transformo dados em insights! 
-✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
+
+
 
 
 ## Sobre mim
-Estou em busca de aprender sobre Análise de Dados e Machile Learning
-Atualmente trabalho com Python e SQL
-
+✨ Cientista de Dados em busca de oportunidades para aplicar meus conhecimentos em Python e SQL em projetos reais. Tenho experiência em análise exploratória de dados e desenvolvimento de modelos preditivos.
 
 ## Soft Skills
 
@@ -28,14 +26,14 @@ Atualmente trabalho com Python e SQL
 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+ <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-  
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 
