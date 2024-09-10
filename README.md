@@ -1,7 +1,15 @@
 
-## Olá eu sou a Isabelle Fernanda
+## 👋 What's up? 
 
-Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
+Olá eu sou a Isabelle Fernanda!
+Transformo dados em insights! 
+✨ Estudante de Ciências de Dados com paixão por Python e Machine Learning. Buscando construir um futuro onde os dados impulsionam a tomada de decisões inteligentes.
+
+
+## Sobre mim
+Estou em busca de aprender sobre Análise de Dados e Machile Learning
+Atualmente trabalho com Python e SQL
+
 
 <div>
   <a href="https://github.com/IsabelleFernanda">
@@ -11,21 +19,28 @@ Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão po
   </a>
 </div>
 
-##
+## Soft Skills
+
+💡 Pensamento Criativo
+🔁 Adaptabilidade
+🔎 Pensamento Analítico
+🔧 Resolução de problemas
+ 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   
 </div>
-  
-  ##
- 
+
+## Onde me encontar
+
+
 <div> 
  
   <a href="https://www.instagram.com/is.a.cesario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
