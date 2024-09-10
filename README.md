@@ -9,8 +9,15 @@ Transformo dados em insights! ✨ Estudante de Ciências de Dados com paixão po
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: ...
 
+<div>
+  <a href="https://github.com/IsabelleFernanda">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleFernanda&layout=compact&langs_count=16&theme=dracula"/>   
 
-https://github-readme-stats.vercel.app/api?username=IsabelleFernanda&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+  </a>
+</div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
