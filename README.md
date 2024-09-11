@@ -9,12 +9,6 @@ Olá eu sou a Isabelle Fernanda!
 ## Sobre mim
 ✨ Cientista de Dados em busca de oportunidades para aplicar meus conhecimentos em Python e SQL em projetos reais. Tenho experiência em análise exploratória de dados e desenvolvimento de modelos preditivos.
 
-## Soft Skills
-
-💡 Pensamento Criativo
-🔁 Adaptabilidade
-🔎 Pensamento Analítico
-🔧 Resolução de problemas
 
 ##
 <div>
@@ -23,6 +17,14 @@ Olá eu sou a Isabelle Fernanda!
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleFernanda&layout=compact&langs_count=16&theme=dracula"/>   
   </a>
 </div>
+
+## Soft Skills
+
+💡 Pensamento Criativo
+🔁 Adaptabilidade
+🔎 Pensamento Analítico
+🔧 Resolução de problemas
+
 
 ##
 
