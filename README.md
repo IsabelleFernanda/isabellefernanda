@@ -3,14 +3,20 @@
 
 Olá eu sou a Isabelle Fernanda!
 
-
-
-
 ## Sobre mim
-✨ Cientista de Dados em busca de oportunidades para aplicar meus conhecimentos em Python e SQL em projetos reais. Tenho experiência em análise exploratória de dados e desenvolvimento de modelos preditivos.
 
+🚀 **Cientista de Dados em Formação | Criatividade aliada à Análise e Resolução de Problemas**  
 
-##
+Atualmente cursando Ciência de Dados pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, em transição de carreira para a área de dados. Sou formada em Artes Visuais com ênfase em Escultura pela UFRJ, o que me proporciona uma visão criativa e analítica para solucionar problemas complexos.
+
+🔍 **Habilidades e Ferramentas:**  
+- Análise Exploratória de Dados (EDA) e Storytelling  
+- Automação de Tarefas com Python  
+- Desenvolvimento de Modelos Preditivos (Machine Learning e Inteligência Artificial)  
+- Manipulação e Visualização de Dados com Pandas, Matplotlib, Seaborn e Plotly
+- Criação de Dashboards Interativos com Streamlit  
+- SQL, Power BI e AWS
+
 <div>
   <a href="https://github.com/IsabelleFernanda">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleFernanda&layout=compact&langs_count=16&theme=dracula"/>
@@ -48,7 +54,6 @@ Olá eu sou a Isabelle Fernanda!
 <div> 
  <a href="https://www.linkedin.com/in/isabelle-f-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:isabelle.f.cesario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/is.a.cesario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
  
