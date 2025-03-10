@@ -5,9 +5,9 @@ Olá eu sou a Isabelle Fernanda!
 
 ## Sobre mim
 
-🚀 **Cientista de Dados em Formação | Criatividade aliada à Análise e Resolução de Problemas**  
+🚀 **Cientista de Dados | Criatividade aliada à Análise e Resolução de Problemas**  
 
-Atualmente cursando Ciência de Dados pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, em transição de carreira para a área de dados. Sou formada em Artes Visuais com ênfase em Escultura pela UFRJ, o que me proporciona uma visão criativa e analítica para solucionar problemas complexos.
+Sou Cientista de Dados, formada pelo curso Profissão: Cientista de Dados da EBAC – Escola Britânica de Artes Criativas e Tecnologia. Em transição de carreira para a área de dados, possuo formação em Artes Visuais com ênfase em Escultura pela UFRJ, o que me proporciona uma visão criativa e analítica para solucionar problemas complexos.
 
 🔍 **Habilidades e Ferramentas:**  
 - Análise Exploratória de Dados (EDA) e Storytelling  
