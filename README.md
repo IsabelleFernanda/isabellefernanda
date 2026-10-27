@@ -5,17 +5,22 @@ Olá eu sou a Isabelle Fernanda!
 
 ## Sobre mim
 
-🚀 **Cientista de Dados | Criatividade aliada à Análise e Resolução de Problemas**  
+🚀 **Estudante de Ciência de Dados (Univesp) | Criatividade aliada à Análise e Resolução de Problemas**
 
-Sou Cientista de Dados, formada pelo curso Profissão: Cientista de Dados da EBAC – Escola Britânica de Artes Criativas e Tecnologia. Em transição de carreira para a área de dados, possuo formação em Artes Visuais com ênfase em Escultura pela UFRJ, o que me proporciona uma visão criativa e analítica para solucionar problemas complexos.
+Estudante de Ciência de Dados na Univesp, com formação pelo curso Profissão: Cientista de Dados da EBAC – Escola Britânica de Artes Criativas e Tecnologia. Em transição de carreira para a área de dados, venho das Artes Visuais com ênfase em Escultura pela UFRJ, o que me dá um olhar criativo e analítico para resolver problemas complexos e comunicar dados de forma clara.
 
-🔍 **Habilidades e Ferramentas:**  
-- Análise Exploratória de Dados (EDA) e Storytelling  
-- Automação de Tarefas com Python  
-- Desenvolvimento de Modelos Preditivos (Machine Learning e Inteligência Artificial)  
-- Manipulação e Visualização de Dados com Pandas, Matplotlib, Seaborn e Plotly
-- Criação de Dashboards Interativos com Streamlit  
-- SQL, Power BI e AWS
+🔍 **Habilidades e Ferramentas:**
+
+- Análise Exploratória de Dados (EDA) e Storytelling com dados
+- Automação de tarefas com Python
+- Modelos preditivos de Machine Learning (classificação, regressão e segmentação) com Scikit-learn e XGBoost
+- Manipulação e visualização de dados com Pandas, Matplotlib, Seaborn e Plotly
+- Dashboards interativos com Streamlit e Power BI
+- SQL para consulta e manipulação de dados
+
+📚 **Estudando agora:** AWS, automação com n8n e aprofundamento em Machine Learning
+
+🎯 **Objetivo:** estágio ou posição júnior em Análise de Dados, BI ou Ciência de Dados
 
 <div>
   <a href="https://github.com/IsabelleFernanda">
